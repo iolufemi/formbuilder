@@ -13,10 +13,10 @@ Formbuilder is a graphical interface for letting users build their own webforms.
 
 ## Basic usage
 {% highlight html %}
-<div class='fb-main'></div>
+<div id='formbuilder'></div>
 
 <script>
-var fb = new Formbuilder('.fb-main');
+var builder = new Formbuilder('#formbuilder');
 </script>
 {% endhighlight %}
 
@@ -41,9 +41,9 @@ More coming soon...
 
 #### `save`
 {% highlight html %}
-var fb = new Formbuilder('#fb');
+var builder = new Formbuilder('#formbuilder');
 
-fb.on('save', function(payload){
+builder.on('save', function(payload){
   ...
 });
 {% endhighlight %}
