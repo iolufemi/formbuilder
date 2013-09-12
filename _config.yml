@@ -2,4 +2,3 @@ title: Formbuilder.js
 description:
 permalink: /:title
 pygments: true
-exclude: ['bower_components']
