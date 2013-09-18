@@ -1,6 +1,6 @@
 {
   "name": "formbuilder",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/dobtco/formbuilder",
   "authors": [
     "adamjacobbecker <ad@mbecker.cc>"
@@ -26,11 +26,11 @@
     "rivets": "*",
     "font-awesome": "*"
   },
-  "_release": "0.1.2",
+  "_release": "0.1.3",
   "_resolution": {
     "type": "version",
-    "tag": "0.1.2",
-    "commit": "a87b4e6e26320bd083105876cab768568ccfffe5"
+    "tag": "0.1.3",
+    "commit": "26c9a4c31f973216beed7120a77b2bf5c501d371"
   },
   "_source": "git://github.com/dobtco/formbuilder.git",
   "_target": "*",
